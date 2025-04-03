@@ -40,6 +40,7 @@
             myChart1.Size = new Size(574, 314);
             myChart1.TabIndex = 0;
             myChart1.Text = "cartesianChart1";
+            myChart1.ChildChanged += myChart1_ChildChanged;
             // 
             // button1
             // 

@@ -59,11 +59,18 @@ namespace WinFormsApp1
             Random random = new Random();
             double val;
             SeriesCollection[0].Values.Clear();
-            for(int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 val = random.Next(0, 10);
                 SeriesCollection[0].Values.Add(val);
             }
         }
+
+        private void myChart1_ChildChanged(object sender, System.Windows.Forms.Integration.ChildChangedEventArgs e)
+        {
+
+        }
+
+        private ChartValues<double> chartValues = new ChartValues<double>();
     }
 }
