@@ -1,0 +1,17 @@
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\bin\Debug\net8.0-windows\Checkboxy.exe
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\bin\Debug\net8.0-windows\Checkboxy.deps.json
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\bin\Debug\net8.0-windows\Checkboxy.runtimeconfig.json
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\bin\Debug\net8.0-windows\Checkboxy.dll
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\bin\Debug\net8.0-windows\Checkboxy.pdb
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.Form1.resources
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.csproj.GenerateResource.cache
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.AssemblyInfoInputs.cache
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.AssemblyInfo.cs
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.csproj.CoreCompileInputs.cache
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.sourcelink.json
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.dll
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\refint\Checkboxy.dll
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.pdb
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\Checkboxy.genruntimeconfig.cache
+C:\Users\1CT\Desktop\3CT\KBienkowski\w11-chromik\Checkboxy\obj\Debug\net8.0-windows\ref\Checkboxy.dll
